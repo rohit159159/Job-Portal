@@ -40,3 +40,13 @@ Integrated real-time notifications for better user experience.
 Built responsive UI/UX with Tailwind and Mantine for mobile-first design.
 
 Demonstrates strong skills in full-stack development, authentication, and scalable web applications.
+
+## 📢 Future Enhancements
+
+Add chat/messaging system between recruiters and candidates.
+
+Integrate advanced search & filter for jobs.
+
+Add AI-based job recommendation system.
+
+Deploy on cloud platforms for production-ready experience.
