@@ -1,6 +1,8 @@
 ## 🏢 Job Portal Web Application
  A full-stack job portal connecting job seekers and recruiters seamlessly, built with modern web technologies. It focuses on security, usability, notifications, and responsive design, making job search and recruitment effortless.
 
+ ## 🎨 Screenshots ![Home Page]( https://github.com/rohit159159/Job-Portal/blob/afcfaf9c2bb6847a179f2c976024cd29bb751160/Job-Portal.png)
+
 ## 🚀 Features
 
 Full-Stack Development: Built with React, Spring Boot, MongoDB, Redux, Tailwind CSS, Mantine, and Tabler Icons.
@@ -14,8 +16,6 @@ Role-Specific Dashboards: Separate dashboards for candidates, recruiters, and ad
 Responsive & Interactive UI: Designed for smooth navigation on desktops, tablets, and mobile devices.
 
 Performance & Scalability: Optimized for fast load times and secure data handling.
-
-## 🎨 Screenshots
 
 ## Home Page:
 
